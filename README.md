@@ -22,10 +22,10 @@ queries, and a Power BI dashboard.
 
 ``` text
 Ecommerce_Sales_Analytics/
-├── Dataset/
+├── Excel/
+|── Dataset/
 │   ├── Sample - Superstore
 │   └── Superstore_Cleaned
-├── Excel/
 ├── Python/
 │   ├── cleaning.py
 │   └── eda.py
