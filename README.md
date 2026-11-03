@@ -60,19 +60,22 @@ Ecommerce_Sales_Analytics/
 
 ## Power BI Dashboard
 
-The **E-Commerce Sales & Customer Analytics** dashboard presents these
-headline metrics:
+The **E-Commerce Sales & Customer Analytics** dashboard presents these headline metrics:
 
-  KPI                 Result
-  -------------- -----------
-  Total Sales        \$2.30M
-  Total Profit     \$286.40K
-  Customers              793
-  Orders               5,009
+  | KPI | Result |
+|---|---|
+| Total Sales | \$2.30M |
+| Total Profit | \$286.40K |
+| Customers | 793 |
+| Orders | 5,009 |
 
-The dashboard includes: - Sales by category - Sales trends by year and
-month - Top products by sales - Sales by region - Filters for customer
-segment, category, and region
+The dashboard includes:
+
+- Sales by category
+- Sales trends by year and month
+- Top products by sales
+- Sales by region
+- Filters for customer segment, category, and region
 
 ## Key Business Findings
 
